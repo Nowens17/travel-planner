@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="MID Server Dashboard">5f3e10520f003010ce4d142386767e16</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>pa_contributor</identity>
+        <read>true</read>
+        <role display_value="pa_contributor" name="pa_contributor">aeec30b3bf101100b96dac808c073943</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 14:26:41</sys_created_on>
+        <sys_id>73bae52247d2111075dd9db6926d43f1</sys_id>
+        <sys_name>pa_contributor</sys_name>
+        <sys_package display_value="Vacation Planner" source="x_881287_vacatio_0">5387edaa4792111075dd9db6926d437b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vacation Planner">5387edaa4792111075dd9db6926d437b</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_73bae52247d2111075dd9db6926d43f1</sys_update_name>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

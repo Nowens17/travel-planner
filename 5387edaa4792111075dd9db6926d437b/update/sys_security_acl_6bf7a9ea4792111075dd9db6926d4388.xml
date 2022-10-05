@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_881287_vacatio_0_roster</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-05 14:14:39</sys_created_on>
+        <sys_id>6bf7a9ea4792111075dd9db6926d4388</sys_id>
+        <sys_name>x_881287_vacatio_0_roster</sys_name>
+        <sys_package display_value="Vacation Planner" source="x_881287_vacatio_0">5387edaa4792111075dd9db6926d437b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vacation Planner">5387edaa4792111075dd9db6926d437b</sys_scope>
+        <sys_update_name>sys_security_acl_6bf7a9ea4792111075dd9db6926d4388</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cc88e52e4792111075dd9db6926d4347" extends="sys_user" label="Traveler" max_length="40" name="x_881287_vacatio_0_traveler" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

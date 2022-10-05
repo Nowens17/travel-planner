@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-05 14:16:55</sys_created_on>
+        <sys_id>b088292e4792111075dd9db6926d4306</sys_id>
+        <sys_name>x_881287_vacatio_0_traveler.x_881287_vacatio_0.user</sys_name>
+        <sys_package display_value="Vacation Planner" source="x_881287_vacatio_0">5387edaa4792111075dd9db6926d437b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vacation Planner">5387edaa4792111075dd9db6926d437b</sys_scope>
+        <sys_security_acl display_value="x_881287_vacatio_0_traveler">7088292e4792111075dd9db6926d4303</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b088292e4792111075dd9db6926d4306</sys_update_name>
+        <sys_user_role display_value="x_881287_vacatio_0.user" name="x_881287_vacatio_0.user">3387edaa4792111075dd9db6926d43f0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
